@@ -1,8 +1,5 @@
 
 <div class="accordian-section">
-
-
-
     <div class="container">
         <div class="row">
             <h3>WHY CHOOSE US</h3>
