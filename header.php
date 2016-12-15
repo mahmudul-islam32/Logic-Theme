@@ -28,17 +28,7 @@
 
 
                 <div class="col-md-8">
-                    <ul id="nav">
-                        <li><a href="">Home</a></li>
-                        <li><a href="">SERVICES</a>
-
-                        </li>
-                        <li><a href="">ABOUT</a></li>
-                        <li><a href="">WORKS</a></li>
-                        <li><a href="">TEAM</a></li>
-                        <li><a href="">CONTACT</a></li>
-                        <li><a href="">BLOG</a></li>
-                    </ul>
+                    <?php wp_nav_menu(array('theme_location' => 'main-menu', 'menu_id' => 'nav')); ?>
                 </div>
 
             </div>
